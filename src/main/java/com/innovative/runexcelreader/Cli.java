@@ -139,16 +139,6 @@ public class Cli {
      */
 
 
-    /**
-     *
-     *
-     * @param filePath
-     * @param sheetIndex
-     * @param columnNum
-     * @param operator
-     * @param operand
-     * @throws Exception
-     */
     public void getQueryPrint(String filePath, int sheetIndex,int columnNum, char operator, String operand)
             throws Exception {
 
